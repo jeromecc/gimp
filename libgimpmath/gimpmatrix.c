@@ -24,6 +24,7 @@
 #include <glib-object.h>
 
 #include "gimpmath.h"
+#inlude "iostream"
 
 
 /**
